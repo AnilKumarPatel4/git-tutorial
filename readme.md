@@ -7,3 +7,5 @@ our state   name bihar
 -country management 
 -control the wold 
 -control the  myself 
+
+i am feel the manage the world 
